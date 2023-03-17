@@ -1,0 +1,23 @@
+{
+  "name": "leetcode-problems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luismiguelmorales/LeetCode-Problems.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luismiguelmorales/LeetCode-Problems/issues"
+  },
+  "homepage": "https://github.com/luismiguelmorales/LeetCode-Problems#readme",
+  "devDependencies": {
+    "vitest": "^0.29.3"
+  }
+}
